@@ -60,3 +60,13 @@ if __name__ == '__main__':
     assert c == [1, 3, 9, 41, 123, 271, 369, 813, 2439, 11111, 33333, 99999]
     assert d == [1, 2, 4, 5, 7, 10, 14, 20, 28, 35, 70, 140, 76079, 152158, 304316, 380395, 532553, 760790, 1065106,
                  1521580, 2130212, 2662765, 5325530, 10651060]
+
+# My results
+#Start program (sinho): 1696886475.293597
+# End program (sinho): 1696886477.258592
+# ===========Time working (sinho): 1.9649949073791504 seconds
+# Start program (proces): 1696886477.258911
+# end program (proces): 1696886479.370168
+# ===========Time working (proces): 2.1112570762634277 seconds
+
+# Process finished with exit code 0
